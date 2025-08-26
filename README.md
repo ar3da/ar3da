@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Areda Joelma!
 
-<!--
-**ar3da/ar3da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objetivo:** em transição de carreira para Análise de Dados.  
+💻 Atualmente estudando Python, SQL e Power BI.  
+📊 Interessada em transformar dados em decisões e criar soluções inteligentes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Ferramentas
+- Python (pandas, matplotlib, numpy)  
+- SQL  
+- Excel  
+- Power BI  
+
+---
+
+## 📂 Projetos em andamento
+- 📊 [Mini-projetos de Python](#)  
+- 🛒 [Análise de gastos pessoais](#)  
+- 📈 [Dashboards no Power BI](#)  
+
+---
+
+📫 **Entre em contato:**  
+- LinkedIn: [https://www.linkedin.com/in/areda-joelma-medeiros-sacramento-255b09273/]  
+- Email: [aredasacramento02@gmail.com]  
